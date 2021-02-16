@@ -21,5 +21,6 @@ theme = "hyde"
 hyde_theme = "theme-base-0d"
 
 hyde_links = [
-    {url = "https://danielwaechter.com", name = "DanielWaechter.com"},
+    {url = "https://twitter.com/danielwaechter", name = "Twitter"},
+    {url = "https://github.com/academician", name = "Github"},
 ]
