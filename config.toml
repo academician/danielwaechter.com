@@ -15,3 +15,7 @@ theme = "hyde"
 
 [extra]
 hyde_theme = "theme-base-0d"
+
+hyde_links = [
+    {url = "https://danielwaechter.com", name = "DanielWaechter.com"},
+]
