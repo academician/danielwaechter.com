@@ -14,4 +14,4 @@ build_search_index = false
 theme = "hyde"
 
 [extra]
-# Put all your custom variables here
+hyde_theme = "theme-base-0d"
