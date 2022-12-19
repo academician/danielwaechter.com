@@ -17,6 +17,10 @@ build_search_index = false
 
 theme = "hyde"
 
+[markdown]
+highlight_code = true
+highlight_theme = "gruvbox-dark"
+
 [extra]
 hyde_theme = "theme-base-0d"
 
@@ -24,3 +28,5 @@ hyde_links = [
     {url = "https://twitter.com/danielwaechter", name = "Twitter"},
     {url = "https://github.com/academician", name = "Github"},
 ]
+
+author = "Daniel Waechter"
