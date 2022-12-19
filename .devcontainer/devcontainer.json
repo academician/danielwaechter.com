@@ -4,7 +4,10 @@
 		"cschleiden.vscode-github-actions",
 		"matklad.rust-analyzer",
 		"serayuzgur.crates",
-		"vadimcn.vscode-lldb"
+		"vadimcn.vscode-lldb",
+		"tamasfe.even-better-toml",
+		"yzhang.markdown-all-in-one",
+		"DavidAnson.vscode-markdownlint"
 	],
 	"dockerFile": "Dockerfile",
 	"settings": {
