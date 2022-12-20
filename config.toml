@@ -25,10 +25,11 @@ highlight_theme = "gruvbox-dark"
 hyde_theme = "theme-base-0d"
 
 hyde_links = [
-    {url = "https://www.linkedin.com/in/danielwaechter/", name = "LinkedIn"},
-    {url = "https://mastodon.gamedev.place/@danielwaechter", name = "Mastodon"},
-    {url = "https://twitter.com/danielwaechter", name = "Twitter"},
-    {url = "https://github.com/academician", name = "Github"},
+    { url = "https://www.linkedin.com/in/danielwaechter/", name = "LinkedIn" },
+    { url = "https://mastodon.gamedev.place/@danielwaechter", name = "Mastodon" },
+    { url = "https://twitter.com/danielwaechter", name = "Twitter" },
+    { url = "https://github.com/academician", name = "Github" },
+    { url = "/resume-2023.pdf", name = "Resume" },
 ]
 
 author = "Daniel Waechter"
