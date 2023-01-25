@@ -22,3 +22,5 @@ You can find me on a variety of social media:
 - :memo: [Resume](/resume-2023.pdf)
 - :computer: [GitHub](https://github.com/academician)
 - :email: Email: <img src="/email.svg" width="200" height="20" wrap="left" style="display: inline; vertical-align: middle; margin: 0" />
+
+Opinions expressed on this site are mine alone and do not necessarily reflect the views or opinions of my employer.
