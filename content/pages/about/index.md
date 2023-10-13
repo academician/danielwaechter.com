@@ -1,6 +1,7 @@
 +++
 title = "About Me"
-template = "global.html"
+template = "info-page.html"
+path = "about"
 +++
 
 *Pronouns: He/him*
