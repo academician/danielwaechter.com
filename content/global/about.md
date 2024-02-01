@@ -5,7 +5,7 @@ template = "global.html"
 
 *Pronouns: He/him*
 
-Hi! I'm a senior software engineer currently employed at [Blizzard Entertainment](https://www.blizzard.com/), working on video game servers.
+Hi! I'm a senior software engineer most recently employed at [Blizzard Entertainment](https://www.blizzard.com/), working on video game servers. I am [open for work!](/daniel-waechter-resume-2024.pdf)
 
 I'm originally from Orange County, California, but I currently live in [Salem, Massachusetts](https://www.salem.org/), the Witch City.
 
@@ -17,9 +17,8 @@ You can find me on a variety of social media:
 
 - :office: [LinkedIn](https://www.linkedin.com/in/danielwaechter/)
 - :elephant: [Mastodon](https://mastodon.gamedev.place/@danielwaechter)
-- :bird: [Twitter](https://twitter.com/danielwaechter)
 - :busts_in_silhouette: [Facebook](https://www.facebook.com/danielwaechter)
-- :memo: [Resume](/resume-2023.pdf)
+- :memo: [Resume](/daniel-waechter-resume-2024.pdf)
 - :computer: [GitHub](https://github.com/academician)
 - :email: Email: <img src="/email.svg" width="200" height="20" wrap="left" style="display: inline; vertical-align: middle; margin: 0" />
 
