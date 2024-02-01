@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Daniel Waechter</title>
+    <subtitle>Senior Software Engineer specializing in game servers</subtitle>
+    <link href="https://danielwaechter.com/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://danielwaechter.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-12-18T00:00:00+00:00</updated>
+    <id>https://danielwaechter.com/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Hello, World!</title>
+        <published>2022-12-18T00:00:00+00:00</published>
+        <updated>2022-12-18T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://danielwaechter.com/hello-world/" type="text/html"/>
+        <id>https://danielwaechter.com/hello-world/</id>
+        
+        <content type="html">&lt;p&gt;Seems an appropriate enough first post to make.&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;rust&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-rust &quot;&gt;&lt;code class=&quot;language-rust&quot; data-lang=&quot;rust&quot;&gt;&lt;span style=&quot;color:#fa5c4b;&quot;&gt;fn &lt;&#x2F;span&gt;&lt;span style=&quot;color:#8ec07c;&quot;&gt;main&lt;&#x2F;span&gt;&lt;span&gt;() {
+&lt;&#x2F;span&gt;&lt;span&gt;    &lt;&#x2F;span&gt;&lt;span style=&quot;color:#fabd2f;&quot;&gt;println!&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#b8bb26;&quot;&gt;&amp;quot;Hello, World!&amp;quot;&lt;&#x2F;span&gt;&lt;span&gt;);
+&lt;&#x2F;span&gt;&lt;span&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+</content>
+        
+    </entry>
+</feed>
