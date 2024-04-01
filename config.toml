@@ -40,7 +40,7 @@ show_reading_time = true
 menu = [
     { name = "blog", url = "blog", trailing_slash = true },
     { name = "about", url = "about", trailing_slash = true },
-    { name = "resume", url = "/daniel-waechter-resume-2024.pdf", trailing_slash = false },
+    { name = "resume", url = "/daniel-waechter-resume-2024-03.pdf", trailing_slash = false },
 ]
 
 feed_icon = true
