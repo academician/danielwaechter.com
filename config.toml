@@ -18,13 +18,13 @@ theme = "tabi"
 
 [markdown]
 highlight_code = true
-highlight_theme = "gruvbox-dark"
+highlight_theme = "css"
 render_emoji = true
 smart_punctuation = false
 
 [extra]
 default_theme = "dark"
-skin = "indigo_ingot"
+skin = "dw_custom"
 
 remote_repository_url = "https://github.com/academician/danielwaechter.com"
 remote_repository_git_platform = "auto"
@@ -39,6 +39,7 @@ show_reading_time = true
 
 menu = [
     { name = "blog", url = "blog", trailing_slash = true },
+    { name = "about", url = "about", trailing_slash = true },
     { name = "resume", url = "/daniel-waechter-resume-2024.pdf", trailing_slash = false },
 ]
 

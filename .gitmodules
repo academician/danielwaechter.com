@@ -1,6 +1,3 @@
-[submodule "themes/hyde"]
-	path = themes/hyde
-	url = https://github.com/academician/hyde.git
 [submodule "themes/tabi"]
 	path = themes/tabi
 	url = https://github.com/academician/tabi.git

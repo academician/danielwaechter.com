@@ -5,7 +5,7 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "Hello! I'm Daniel Waechter", img = "img/main.webp", img_alt = "Daniel Waechter's likeness" }
+header = {title = "Hello! I'm Daniel Waechter"}
 section_path = "blog/_index.md"
 max_posts = 4
 +++
