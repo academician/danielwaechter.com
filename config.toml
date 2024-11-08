@@ -11,7 +11,7 @@ compile_sass = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
-generate_feed = true
+generate_feeds = false
 minify_html = true
 
 theme = "tabi"
@@ -43,8 +43,8 @@ menu = [
     { name = "resume", url = "/daniel-waechter-resume-2024-03.pdf", trailing_slash = false },
 ]
 
-feed_icon = true
-full_content_in_feed = false
+feed_icon = false
+full_content_in_feed = true
 
 email = "ZGFuaWVsQGRhbmllbHdhZWNodGVyLmNvbQ=="
 
