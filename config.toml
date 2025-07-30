@@ -38,9 +38,9 @@ copy_button = true
 show_reading_time = true
 
 menu = [
-    { name = "blog", url = "blog", trailing_slash = true },
-    { name = "about", url = "about", trailing_slash = true },
-    { name = "resume", url = "/daniel-waechter-resume-2024-03.pdf", trailing_slash = false },
+  { name = "blog", url = "blog", trailing_slash = true },
+  { name = "about", url = "about", trailing_slash = true },
+  { name = "resume", url = "/daniel-waechter-resume-2025.pdf", trailing_slash = false },
 ]
 
 feed_icon = false
@@ -49,9 +49,9 @@ full_content_in_feed = true
 email = "ZGFuaWVsQGRhbmllbHdhZWNodGVyLmNvbQ=="
 
 socials = [
-    { name = "linkedin", url = "https://www.linkedin.com/in/danielwaechter/", icon = "linkedin" },
-    { name = "mastodon", url = "https://mastodon.gamedev.place/@danielwaechter", icon = "mastodon" },
-    { name = "github", url = "https://github.com/academician", icon = "github" },
+  { name = "linkedin", url = "https://www.linkedin.com/in/danielwaechter/", icon = "linkedin" },
+  { name = "mastodon", url = "https://mastodon.gamedev.place/@danielwaechter", icon = "mastodon" },
+  { name = "github", url = "https://github.com/academician", icon = "github" },
 ]
 
 author = "Daniel Waechter"
